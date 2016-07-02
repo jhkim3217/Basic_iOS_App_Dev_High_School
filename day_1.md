@@ -1,2 +1,2 @@
-# First Chapter
+# Day 1
 
