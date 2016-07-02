@@ -4,4 +4,5 @@
 * [Day 1](day_1.md)
 * Day 2
 * Day 3
+* Day 4
 
