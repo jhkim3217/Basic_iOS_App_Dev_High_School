@@ -1,5 +1,5 @@
 # Summary
 
-* [목차 및 강의내용](README.md)
+* [목차](README.md)
 * [Day 1](day_1.md)
 
