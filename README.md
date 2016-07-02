@@ -7,10 +7,14 @@
 
 * 
 참고 사이트
-(1) http://www.raywenderlich.com/5600/ios-for-high-school-students-getting-started
-(2) http://www.raywenderlich.com/11079/ios-for-high-school-students-text-adventure-game
-(3) http://www.raywenderlich.com/25561/ios-for-high-school-students-making-your-first-ios-app-part-1
-(4) http://www.raywenderlich.com/27191/ios-for-high-schoolers-making-your-own-ios-app-part-2
+* 
+http://www.raywenderlich.com/5600/ios-for-high-school-students-getting-started
+* 
+http://www.raywenderlich.com/11079/ios-for-high-school-students-text-adventure-game
+* 
+http://www.raywenderlich.com/25561/ios-for-high-school-students-making-your-first-ios-app-part-1
+* 
+http://www.raywenderlich.com/27191/ios-for-high-schoolers-making-your-own-ios-app-part-2
 
 
 
