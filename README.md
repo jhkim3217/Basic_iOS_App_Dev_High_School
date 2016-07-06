@@ -22,7 +22,7 @@
 * 
 Tap Me 게임의 기능 추가
 
-#####5. 참고 사이트
+#####5. 수업 참고 자료
 * 
 http://www.raywenderlich.com/5600/ios-for-high-school-students-getting-started
 * 
