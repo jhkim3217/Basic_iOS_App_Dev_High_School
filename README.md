@@ -10,8 +10,8 @@
 #####2. iOS 앱 프로그래밍 기초(6시간)
 * XCode 사용하기
 * Hello iPhone 앱 만들기 : StoryBoard 사용하기
-* Hello Fun 앱 만들기 : IBOutlet 변수, IBAction 함수 이해 및 활용하기
-* 프로그래밍 문제 해결 : Hello Fun 앱 기능 추가하기
+* 상호작용 앱(Button Fun) 만들기 : IBOutlet 변수, IBAction 함수 이해 및 활용하기
+* 프로그래밍 문제 해결 : Button Fun 앱 기능 추가하기
 
 #####3. Tap Me 게임 제작(4시간)
 * 다함께 Tap Me 게임 이해 및 제작
