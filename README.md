@@ -23,9 +23,14 @@
 Tap Me 게임의 기능 추가
 
 #####5. 수업 참고 자료
+
+* 
+https://www.raywenderlich.com/114148/learn-to-code-ios-apps-with-swift-tutorial-1-welcome-to-programming
+
+
 * 
 http://www.raywenderlich.com/5600/ios-for-high-school-students-getting-started
-* 
+*
 http://www.raywenderlich.com/11079/ios-for-high-school-students-text-adventure-game
 * 
 http://www.raywenderlich.com/25561/ios-for-high-school-students-making-your-first-ios-app-part-1
