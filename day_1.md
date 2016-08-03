@@ -96,7 +96,16 @@ let teacher = "홍길동"
 ####If/ else 문
 ![](if_else01.png)
 
+####간단한 함수
+```swift
+let batmanCoolness = 7
+print("Hello iPhone")
+print("Swift is awesome")
+print(batmanCoolness)
+```
 
+
+####스트링 연산
 
 
 
