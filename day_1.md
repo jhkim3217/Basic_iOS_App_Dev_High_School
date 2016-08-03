@@ -91,7 +91,10 @@ let teacher = "홍길동"
 * **&&**   AND
 * **||**   OR 
 
+![](comp_op01.png)
 
+####If/ else 문
+![](if_else01.png)
 
 
 
