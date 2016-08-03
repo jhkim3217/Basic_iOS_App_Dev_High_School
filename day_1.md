@@ -84,12 +84,12 @@ let teacher = "홍길동"
 ```
 
 ####비교 연산(Comparision Operators)
-* **>**   Greater Than
-* **<**   Less Than
-* **==**   Equal To
-* **>=**   Greator Than or Equal To
-* **&&**   AND
-* **||**   OR 
+* **`>`**   Greater Than
+* **`<`**   Less Than
+* **`==`**   Equal To
+* **`>=`**   Greator Than or Equal To
+* **`&&`**   AND
+* **`||`**   OR 
 
 ![](comp_op01.png)
 
