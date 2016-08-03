@@ -94,6 +94,16 @@ let teacher = "홍길동"
 ![](comp_op01.png)
 
 ####If/ else 문
+
+```Swift
+var bookPrice = 1000
+if bookPrice >= 999 {
+  print("Hey, the book is epensive")
+} else {
+  print("OK, I can affort")
+}
+```
+
 ![](if_else01.png)
 
 ####간단한 함수
