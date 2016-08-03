@@ -29,10 +29,10 @@ var age: Int = 18
 ```
 
 ####형(Types)
-* Int - 정수형, 예) 12
-* Double - 실수형, 예) 12.04
-* Bool - 불형 예) 값이 true 혹은 false 
-* String - 문자열, 예) 우리는 멋진 삼정고"
+* `Int` - 정수형, 예) `12`
+* `Double` - 실수형, 예) `12.04`
+* `Bool` - 불형 예) 값이 `true` 혹은 `false` 
+* `String` - 문자열, 예) `"우리는 멋진 삼정고"`
 
 ```Swift
 var luckyNumber: Int = 7
