@@ -151,14 +151,40 @@ print("Yay! the end")
 ![](break01.png)
 
 ####Continue 문
+![](continue01.png)
+
+#### Optional 변수
+변수가 값을 가지고 있는지 그렇지 않는지 알 수가 없다. 이때 변수가 값을 가지고 있지 않는 경우 nil을 가지고 있다고 한다. Optional 변수는 값이나 nil 두가지 중 하나를 가질 수 있는 특수한 변수이다. SWift에서는 일반 변수는 nil 값을 가질 수 없다.
+
+```Swift
+var optionalNumber: Int? = 5
+optionalNumber = nil
+```
+
+```Swift
+if let number = optionalNumber {
+  print("It is a number")
+} else {
+  print("It is not a number) // nil 값을 가지고 있음
+}
+```
+
+#### 형변환
+
+```Swift
+var languagesLearned: String = "3"
+var languageLearnedNum: Int? = Int(languageLearned)
+```
+
+```Swift
+if let num = languageLearnedNum {
+  print("It is a number")
+} else {
+  print("nil 값임")
+}
+```
 
 
-
-
-
-
-
-
-
-https:\/\/www.raywenderlich.com\/114148\/learn-to-code-ios-apps-with-swift-tutorial-1-welcome-to-programming
+####참고 
+https:www.raywenderlich.com/114148/learn-to-code-ios-apps-with-swift-tutorial-1-welcome-to-programming
 
