@@ -93,7 +93,7 @@ let teacher = "홍길동"
 
 ![](comp_op01.png)
 
-####If/ else 문
+####if/ else 문
 
 ```Swift
 var bookPrice = 1000
@@ -117,11 +117,35 @@ print(batmanCoolness)
 
 ####스트링 연산
 
+``` Swift
+var apples = 5
+print("I have \(apples) apples")
+print("You have \(apples - 5) apples")
+```
 
+```Swift
+var kimGrade = 95
+var leeGrade = 82
+if kimGrade < leeGrade {
+  print("\(kimgrade) is less than \(leeGrade)")
+} else if kimGrade > leeGrade {
+  print("\(kimGrade is greater than \(leeGrade)")
+} else {
+  print("\(kimGrade) is equal to \(leeGrade)")
+}
+```
 
+####While 루프
 
-
-
+```Swift
+var secondsLeft = 3
+while secondsLeft > 0 {
+  print(secondsLeft)
+  secondsLeft = secondsLeft - 1
+}
+print("Yay! the end")
+```
+![](while01.png)
 
 
 
