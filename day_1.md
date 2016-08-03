@@ -106,7 +106,7 @@ if bookPrice >= 999 {
 
 ![](if-else01.png)
 
-####간단한 함수
+####간단한 함수(Functions)
 ```swift
 let batmanCoolness = 7
 print("Hello iPhone")
