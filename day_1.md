@@ -1,6 +1,6 @@
 # Day 1
 #### Playground
-![](1-Welcome_To_Xcode_New_Playground2 (1).png)
+![](1-Welcome_To_Xcode_New_Playground2.png)
 
 ![](NewPlayground2.png)
 
