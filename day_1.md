@@ -5,11 +5,10 @@
 변수는 저장한 값이 변경될 수 있고, 상수는 저장한 값이 변경될 수 없다.
 변수는 let, 상수는 var로 표시한다.
 
-
-
-import UIKit
-
-var str = "Hello, playground"
+```
+import UIKit 
+var str = "Hello, playground"                                                                                                             
+```
 
 
 
