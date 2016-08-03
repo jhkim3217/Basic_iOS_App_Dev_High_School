@@ -60,6 +60,37 @@ teacher = "임꺽정" // 오류가 발생함?
 
 ####형 추론(Inferred Typing)
 ```Swift
+var luckyNumber: Int = 7
+var luckyNumber = 7
+```
+
+``` Swift
+// luckyNumber를 Double로 명시적으로 표현하면 7.0으로 초기화해야 함
+var luckyNumber: Double = 7.0
+```
+
+```Swift
+// 형추론 형식으로 표현
+var luckyNumber = 7
+var costOfCandy = 1.25
+var hungry = true
+var name = "Steve Jobs"
+name = "Mark Zuckerberg"
+
+let myAge = 27
+let pi = 3.14
+let canTouchThis = false
+let teacher = "홍길동"
+```
+
+####비교 연산(Comparision Operators)
+* > Greater Than
+* < Less Than
+* == Equal To
+* >= Greator Than or Equal To
+* && AND
+* || OR 
+
 
 
 
