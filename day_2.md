@@ -1,6 +1,6 @@
 # Day 2
 
-#### 숫자 맞추기 게임 만들기 01
+#### 숫자 맞추기 게임 만들기 01 (Playground)
 
 ```Swift
 //: Playground - noun: a place where people can play
@@ -32,7 +32,7 @@ if guess > answer {
 ```
 ![](guess_no01.png)
 
-#### 숫자 맞추기 게임 만들기 02
+#### 숫자 맞추기 게임 만들기 02 (Command Line Tool)
 ```Swift
 //  main.swift
 //  Guess Number 02
@@ -65,7 +65,7 @@ if let guess = inputAsInt {
 ```
 ![](guess_no02.png)
 
-####숫자 맞추기 게임 만들기 03
+####숫자 맞추기 게임 만들기 03 (Command Line Tool)
 ```Swift
 //  main.swift
 //  Guess Number 03
