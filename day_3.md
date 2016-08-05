@@ -44,7 +44,7 @@ class ViewController: UIViewController {
 프로그램을 처음 실행하면 view의 색깔이 노란색`UIColor.yellowColor()` 나타난다. 
 
 * 
-`Left butto`을 누르면 view의 색깔이 파란색`UIColor.blueColor()`으로 바뀌고, label에는 `"Left button pressed"` 스트링이 출력된다.
+`Left button`을 누르면 view의 색깔이 파란색`UIColor.blueColor()`으로 바뀌고, label에는 `"Left button pressed"` 스트링이 출력된다.
 
 * 
 `Right button`을 누르면 view의 색깔이 초록색`UIColor.greenColor()`으로 바뀌고, label에는 `"Right button pressed"` 스트링이 출력된다.
