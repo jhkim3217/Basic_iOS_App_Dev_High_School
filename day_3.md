@@ -2,6 +2,11 @@
 
 #### Hello World 앱 만들기
  
+ * `IBOutlet` 변수
+ * `IBAction` 함수
+
+
+ 
  ![](HelloWorld01.png) 
  
  ![](HelloWorld02.png)
