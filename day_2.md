@@ -30,6 +30,7 @@ if guess > answer {
     print("Bingo!! The answer is \(answer)")
 }
 ```
+![](guess_no01.png)
 
 #### 숫자 맞추기 게임 만들기 02
 ```Swift
@@ -62,6 +63,7 @@ if let guess = inputAsInt {
     print("Invaild input! Please enter a number.")
 }
 ```
+![](guess_no02.png)
 
 ####숫자 맞추기 게임 만들기 03
 ```Swift
