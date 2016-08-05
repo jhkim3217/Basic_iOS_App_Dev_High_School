@@ -1,5 +1,19 @@
 # Day 3
 
+#### XCode iOS Project 만들기
+
+![](1-Welcome_To_Xcode_New_Project-340x320.png)
+
+![](Screen-Shot-2014-07-14-at-3.27.26-PM-480x282.png)
+
+![](2-Select_Single_View_Application-480x278.png)
+
+![](Screen-Shot-2015-09-09-at-1.49.04-PM.png)
+
+
+
+
+
 #### Hello World 앱 만들기
  
  * `IBOutlet` 변수
