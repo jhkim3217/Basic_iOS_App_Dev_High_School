@@ -41,6 +41,12 @@ class ViewController: UIViewController {
         }
     }
     
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view, typically from a nib.
+        setupGame()
+    }
+    
     func setupGame() {
         // 게임 시가늘 10초로 설정
         seconds = 10
@@ -64,8 +70,9 @@ class ViewController: UIViewController {
             stopFlag = false
         }
     }
-    
 }
+
+
 ```
 
 
