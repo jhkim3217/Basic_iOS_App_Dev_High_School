@@ -129,10 +129,11 @@ print(batmanCoolness)
 ####스트링 연산
 
 ```Swift
-let title = "An Absolute Beginners Guide to Swift"
+let title = "Hi, Swift"
 let review = "Is Awesome!"
 let description = title + " - " + review
-// description = "An Absolute Beginners Guide to Swift - Is Awesome!"
+// description = "Hi, Swift  - Is Awesome!"
+print(description)
 ```
 
 ``` Swift
