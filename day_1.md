@@ -113,6 +113,7 @@ if bookPrice >= 999 {
 ![](if-else01.png)
 
 ####간단한 함수(Functions)
+
 * 내가 만드는 함수
 
 ![](myfunction.png)
