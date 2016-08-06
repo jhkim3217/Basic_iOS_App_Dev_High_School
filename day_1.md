@@ -113,13 +113,10 @@ if bookPrice >= 999 {
 ![](if-else01.png)
 
 ####간단한 함수(Functions)
-
 * 내가 만드는 함수
+![](myfunction.png)
 
-![](myfunction.png) 
-
-
-* 라이브러리 함수(이미 만들어 놓은 함수를 불러서 사용)
+* 라이브러리 함수(불러서 사용하는 함수)
 
 ```swift
 let batmanCoolness = 7
@@ -127,38 +124,16 @@ print("Hello iPhone")
 print("Swift is awesome")
 print(batmanCoolness)
 ```
-* return 값이 있는 함수
-
-```Swift
-func student(name: String) -> String {
-    return name
-}
-
-func teacher(name: String) -> String {
-    return name
-}
-
-print(student("홍길동"))
-print(teacher("임꺽정"))
-```
-
-* return 값이 없는 함수
-
-```Swift
-func sum(a: Int, b: Int) {
-    let a = a + b
-    let b = a - b
-    print(a, b)
-}
-
-sum(20, b: 10)
-sum(40,b: 10)
-sum(24,b: 6)
-```
-
 
 
 ####스트링 연산
+
+```Swift
+let title = "An Absolute Beginners Guide to Swift"
+let review = "Is Awesome!"
+let description = title + " - " + review
+// description = "An Absolute Beginners Guide to Swift - Is Awesome!"
+```
 
 ``` Swift
 var apples = 5
@@ -179,7 +154,7 @@ if kimGrade < leeGrade {
 ```
 
 ####For 루프
-![](forloop.png)
+![](forloop.png) 
 
 
 ####While 루프
@@ -233,5 +208,5 @@ if let num = languageLearnedNum {
 
 
 ####참고 
-[https:www.raywenderlich.com/114148/learn-to-code-ios-apps-with-swift-tutorial-1-welcome-to-programming](https:www.raywenderlich.com/114148/learn-to-code-ios-apps-with-swift-tutorial-1-welcome-to-programming)
+https:www.raywenderlich.com/114148/learn-to-code-ios-apps-with-swift-tutorial-1-welcome-to-programming
 
