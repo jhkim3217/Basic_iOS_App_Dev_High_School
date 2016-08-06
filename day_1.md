@@ -114,6 +114,7 @@ if bookPrice >= 999 {
 
 ####간단한 함수(Functions)
 * 내가 만드는 함수
+
 ![](myfunction.png)
 
 * 라이브러리 함수(불러서 사용하는 함수)
