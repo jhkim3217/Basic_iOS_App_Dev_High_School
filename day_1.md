@@ -127,6 +127,35 @@ print("Hello iPhone")
 print("Swift is awesome")
 print(batmanCoolness)
 ```
+* return 값이 있는 함수
+
+```Swift
+func student(name: String) -> String {
+    return name
+}
+
+func teacher(name: String) -> String {
+    return name
+}
+
+print(student("홍길동"))
+print(teacher("임꺽정"))
+```
+
+* return 값이 없는 함수
+
+```Swift
+func sum(a: Int, b: Int) {
+    let a = a + b
+    let b = a - b
+    print(a, b)
+}
+
+sum(20, b: 10)
+sum(40,b: 10)
+sum(24,b: 6)
+```
+
 
 
 ####스트링 연산
