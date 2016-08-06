@@ -147,7 +147,7 @@ if kimGrade < leeGrade {
 ```
 
 ####For 루프
-![](for_loop.png)
+![](forloop.png)
 
 
 ####While 루프
