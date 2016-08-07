@@ -32,7 +32,11 @@ if guess > answer {
 ```
 ![](guess_no01.png)
 
-#### 숫자 맞추기 게임 만들기 02 (Command Line Tool)
+#### 숫자 맞추기 게임 만들기 02 (Command Line Tool) 
+
+![](CMDtool01.png) ![](CMDTool02.png)
+
+
 ```Swift
 //  main.swift
 //  Guess Number 02
