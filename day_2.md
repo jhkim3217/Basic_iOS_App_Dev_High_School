@@ -70,6 +70,30 @@ if let guess = inputAsInt {
 
 ####[`helper.swift` 소스 다운로드](https://dl.dropboxusercontent.com/u/11130733/helpers.swift)#####
 
+```Swift
+//  My First Project
+
+import Foundation
+
+func input() -> String {
+  let keyboard = NSFileHandle.fileHandleWithStandardInput()
+  let inputData = keyboard.availableData
+  let rawString = NSString(data: inputData, encoding:NSUTF8StringEncoding)
+  
+  if let string = rawString {
+    return string.stringByTrimmingCharactersInSet(NSCharacterSet.whitespaceAndNewlineCharacterSet())
+  } else {
+    return "Invalid input"
+  }
+}
+
+func randomIntBetween(low:Int, high:Int) -> Int {
+  let range = high - (low - 1)
+  return (Int(arc4random()) % range) + (low - 1)
+}
+```
+
+
 ![](guess_no02.png)
 
 ####숫자 맞추기 게임 만들기 03 (Command Line Tool)
