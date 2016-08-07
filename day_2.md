@@ -67,6 +67,9 @@ if let guess = inputAsInt {
     print("Invaild input! Please enter a number.")
 }
 ```
+
+####[`helper.swift` 소스 다운로드](https://dl.dropboxusercontent.com/u/11130733/helpers.swift)#####
+
 ![](guess_no02.png)
 
 ####숫자 맞추기 게임 만들기 03 (Command Line Tool)
