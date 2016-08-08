@@ -128,6 +128,10 @@ print("Swift is awesome")
 print(batmanCoolness)
 ```
 
+* 
+프로그래밍 문제
+정수값 1+2+3+....+100을 더해서 츨력하는 프로그램을 작성하시요.
+
 
 ####스트링 연산
 
