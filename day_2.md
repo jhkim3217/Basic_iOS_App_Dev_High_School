@@ -139,3 +139,5 @@ print("It took you \(turn) tries!")
 ![](guess_no_03.png)
 
 ####참고
+
+https://www.raywenderlich.com/114173/learn-to-code-ios-apps-with-swift-tutorial-2-your-first-project
