@@ -111,7 +111,7 @@ if bookPrice >= 999 {
 }
 ```
 
-![](if-else01.png)
+![](if-else02.png)
 
 ####간단한 함수(Functions)
 
