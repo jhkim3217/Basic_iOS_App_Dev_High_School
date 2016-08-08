@@ -171,6 +171,14 @@ if kimGrade < leeGrade {
 
 ####While 루프
 
+``` Swift
+var i = 1
+while i <= 10 {
+   print(i * 5)
+   i += 1
+}
+```
+
 ```Swift
 var secondsLeft = 3
 while secondsLeft > 0 {
