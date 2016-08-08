@@ -182,9 +182,15 @@ print("Yay! the end")
 ![](while01.png)
 
 ####Break 문
+
+`Break` 문을 만나면 반복문(loop)을 완전하 빠져 나온다.
+
 ![](break01.png)
 
 ####Continue 문
+
+ `continue` 문을 만나면 반복문(loop)의 처음으로 이동한다.
+ 
 ![](continue01.png)
 
 #### Optional 변수
