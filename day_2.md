@@ -137,3 +137,5 @@ while true {
 print("It took you \(turn) tries!")
 ```
 ![](guess_no_03.png)
+
+####참고
