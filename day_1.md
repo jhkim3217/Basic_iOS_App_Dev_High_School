@@ -113,6 +113,19 @@ if bookPrice >= 999 {
 
 ![](if_else02.png)
 
+```Swift
+var a = 65
+
+if a >= 95 {
+    print("최고")
+} else if a >= 90 {
+    print("우수")
+} else if a >= 80 {
+    print("보통")
+} else {
+    print("분발이 요구됨")
+}
+```
 
 ####간단한 함수(Functions)
 
