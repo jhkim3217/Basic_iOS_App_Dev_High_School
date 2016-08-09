@@ -2,6 +2,12 @@
 
 #### 숫자 맞추기 게임 만들기 01 (Playground)
 
+* 
+####`arc4Randon()` 함수####
+
+2~2exp(32 bit unsigned integer) 사이의 정수형 난수를 생성함
+
+
 ```Swift
 //: Playground - noun: a place where people can play
 // Guess Number 01
