@@ -5,7 +5,7 @@
 * 
 ####`arc4Randon()` 함수####
 
-2~2exp(32 bit unsigned integer) 사이의 정수형 난수를 생성함
+2~2exp 32(32 bit unsigned integer) 사이의 정수형 난수를 생성함
 
 
 ```Swift
