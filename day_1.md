@@ -164,7 +164,7 @@ var leeGrade = 82
 if kimGrade < leeGrade {
   print("\(kimgrade) is less than \(leeGrade)")
 } else if kimGrade > leeGrade {
-  print("\(kimGrade is greater than \(leeGrade)")
+  print("\(kimGrade) is greater than \(leeGrade)")
 } else {
   print("\(kimGrade) is equal to \(leeGrade)")
 }
