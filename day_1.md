@@ -219,10 +219,11 @@ print("Yay! the end")
 ```Swift
 var optionalNumber: Int? = 5
 optionalNumber = nil
+print(optionalNumber!) // forced unwrapping(강제 풀기)
 ```
 
 ```Swift
-if let number = optionalNumber {
+if let number = optionalNumber {  // optional binding
   print("It is a number")
 } else {
   print("It is not a number) // nil 값을 가지고 있음
