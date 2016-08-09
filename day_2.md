@@ -7,6 +7,15 @@
 
 2~2exp 32(32 bit unsigned integer) 사이의 정수형 난수를 생성함
 
+* 
+####`%` 연산자####
+
+`10 % 2` : 0
+
+`9 % 4`  : 1
+
+![](randon_no.png)
+
 
 ```Swift
 //: Playground - noun: a place where people can play
