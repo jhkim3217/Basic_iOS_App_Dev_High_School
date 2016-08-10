@@ -53,13 +53,7 @@ if guess > answer {
 
 * main.swift
 
-
 ![](GuessNo2_01.png)
-
-* helpers.swift
-
-
-![](GuessNo2_02.png)
 
 ```Swift
 //  main.swift
@@ -92,7 +86,10 @@ if let guess = inputAsInt {
 }
 ```
 
-####[`helper.swift` 소스 다운로드](https://dl.dropboxusercontent.com/u/11130733/helpers.swift)#####
+* helpers.swift
+
+
+![](GuessNo2_02.png)
 
 ```Swift
 //  My First Project
@@ -116,6 +113,8 @@ func randomIntBetween(low:Int, high:Int) -> Int {
   return (Int(arc4random()) % range) + (low - 1)
 }
 ```
+
+####[`helper.swift` 소스 다운로드](https://dl.dropboxusercontent.com/u/11130733/helpers.swift)#####
 
 
 ![](guess_no02.png)
@@ -157,7 +156,6 @@ while true {
     }
     turn = turn + 1
 }
-
 print("It took you \(turn) tries!")
 ```
 ![](guess_no_03.png)
