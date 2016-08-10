@@ -66,7 +66,7 @@ class ViewController: UIViewController {
         if seconds == 0 {
             // timer를 stop 함
             timer.invalidate()
-            
+       
             stopFlag = false
         }
     }
