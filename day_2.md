@@ -51,6 +51,15 @@ if guess > answer {
 
 ![](CMDtool01.png) ![](CMDTool02.png)
 
+* main.swift
+
+
+![](GuessNo2_01.png)
+
+* helpers.swift
+
+
+![](GuessNo2_02.png)
 
 ```Swift
 //  main.swift
