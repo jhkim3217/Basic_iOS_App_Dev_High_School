@@ -160,6 +160,14 @@ print("It took you \(turn) tries!")
 ```
 ![](guess_no_03.png)
 
+
 ####참고
 
 https://www.raywenderlich.com/114173/learn-to-code-ios-apps-with-swift-tutorial-2-your-first-project
+
+
+
+---
+####애플 Playground 앱
+
+http://www.apple.com/newsroom/2016/06/swift-playgrounds-app-makes-learning-to-code-easy-and-fun.html?imgid=1465493395967
