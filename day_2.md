@@ -168,6 +168,7 @@ https://www.raywenderlich.com/114173/learn-to-code-ios-apps-with-swift-tutorial-
 
 
 ---
-####애플 Playground 앱
+####애플 Playground 아이패드 앱
+***Swift Playgrounds app makes learning to code easy and fun***
 
 http://www.apple.com/newsroom/2016/06/swift-playgrounds-app-makes-learning-to-code-easy-and-fun.html?imgid=1465493395967
