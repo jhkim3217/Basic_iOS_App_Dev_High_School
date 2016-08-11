@@ -83,7 +83,7 @@ class ViewController: UIViewController {
 ```
 ####[버튼 이미지 다운로드 ](https://dl.dropboxusercontent.com/u/11130733/button_tap_selected.png)####
 
-![](TapMe.png)
+![](TapMe.png) ![](TapMe_Lec_bg.png) 
 
 
 
