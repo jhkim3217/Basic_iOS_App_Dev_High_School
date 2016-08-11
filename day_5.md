@@ -87,7 +87,8 @@ class ViewController: UIViewController {
 
 
 
-####[최종 프로젝트 화일 다운로드](https://dl.dropboxusercontent.com/u/11130733/Tap%20Me%20Game%20Final.zip)####
+####[최종 프로젝트 소스 다운로드](https://dl.dropboxusercontent.com/u/11130733/Tap%20Me%20Game%20Final.zip)####
+
 
 ![](TapMeFinal01.png) ![](TapMeFinal02.png)
 
