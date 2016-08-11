@@ -84,6 +84,5 @@ class ViewController: UIViewController {
 
 ####참고
 
-https://www.gitbook.com/book/jhkim3217/highschoolcoding/edit#/edit/master/day_5.md
-
+https://www.raywenderlich.com/114298/learn-to-code-ios-apps-with-swift-tutorial-5-making-it-beautiful
 
