@@ -31,10 +31,13 @@
 
 ##### 참고 자료
 
-* [https:/www.raywenderlich.com/114148/learn-to-code-ios-apps-with-swift-tutorial-1-welcome-to-programming](https://www.raywenderlich.com/114148/learn-to-code-ios-apps-with-swift-tutorial-1-welcome-to-programming)
-* [http:/www.raywenderlich.com/5600/ios-for-high-school-students-getting-started](http://www.raywenderlich.com/5600/ios-for-high-school-students-getting-started)
-  [http:/www.raywenderlich.com/11079/ios-for-high-school-students-text-adventure-game](http://www.raywenderlich.com/11079/ios-for-high-school-students-text-adventure-game)
-* [http:/www.raywenderlich.com/25561/ios-for-high-school-students-making-your-first-ios-app-part-1](http://www.raywenderlich.com/25561/ios-for-high-school-students-making-your-first-ios-app-part-1)
-* [http:/www.raywenderlich.com/27191/ios-for-high-schoolers-making-your-own-ios-app-part-2](http://www.raywenderlich.com/27191/ios-for-high-schoolers-making-your-own-ios-app-part-2)
+* https://www.raywenderlich.com/114148/learn-to-code-ios-apps-with-swift-tutorial-1-welcome-to-programming
+* https://www.raywenderlich.com/114173/learn-to-code-ios-apps-with-swift-tutorial-2-your-first-project
+* https://www.raywenderlich.com/114234/learn-to-code-ios-apps-with-swift-tutorial-3-arrays-objects-and-classes
+* https://www.raywenderlich.com/114262/learn-to-code-ios-apps-with-swift-tutorial-4-your-first-app
+* https://www.raywenderlich.com/114298/learn-to-code-ios-apps-with-swift-tutorial-5-making-it-beautiful
 
 ![](IMG_2123.JPG)
+
+![](삼정고.jpg)
+
