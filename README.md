@@ -33,4 +33,6 @@
 * [http:/www.raywenderlich.com/25561/ios-for-high-school-students-making-your-first-ios-app-part-1](http:/www.raywenderlich.com/25561/ios-for-high-school-students-making-your-first-ios-app-part-1)
 * [http:/www.raywenderlich.com/27191/ios-for-high-schoolers-making-your-own-ios-app-part-2](http:/www.raywenderlich.com/27191/ios-for-high-schoolers-making-your-own-ios-app-part-2)
 
+![](IMG_2123.JPG)
+
 ![](삼정고.jpg)
